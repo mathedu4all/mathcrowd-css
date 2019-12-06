@@ -1,0 +1,77 @@
+.wechat-output {
+    padding: 30px;
+    word-break: break-all;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: left;
+    word-spacing: 3px;
+    letter-spacing: 3px;
+}
+
+.wechat-output p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #3e3e3e;
+}
+
+/* 二级标题 */
+.wechat-output h2 {
+    line-height: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 1.1em;
+}
+
+/* 二级标题内容 */
+.wechat-output h2 span:nth-of-type(1) {
+    background-color: #5c5c5c;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 1px;
+}
+
+.wechat-output .problem-img{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 3px;
+}
+
+.wechat-output .problem-img img{
+    max-width: 90%;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+
+.wechat-output .step-header {
+    font-weight: bold;
+    color: #5c5c5c;
+}
+
+.wechat-output .solution-step{
+    margin-top: 10px;
+    border-bottom: 1px solid #5c5c5c;
+}
+
+.wechat-output .step-score{
+    text-align: right;
+    font-size: 0.8em;
+    color: #5c5c5c;
+}
+
+.wechat-output .problem-info {
+    font-size: 0.8em;
+    color: darkgrey;
+    padding: 5px;
+    margin: 5px;
+}
+
+.inline-math{
+    display: inline;
+}
+
+.display-math{
+    display: block;
+    text-align: center;
+}
