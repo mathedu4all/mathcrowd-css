@@ -1,0 +1,138 @@
+.wechat-output {
+    word-spacing: 2px;
+    margin: 5px 2px 5px 2px;
+    padding: 0;
+    line-height: 40px; !important;
+    color: darkolivegreen;
+    background-color: #f2f6c1;
+    background-image: -webkit-repeating-linear-gradient(top, transparent 0%, transparent 39px, rgba(239, 207, 173, 0.7) 39px, rgba(239, 207, 173, 0.7) 40px);
+    border: 1px solid rgba(195, 186, 170, 0.9);
+    box-sizing: border-box;
+}
+
+/* 二级标题 */
+.wechat-output h2{
+    background-color: forestgreen;
+    color: white;
+    font-weight: 400;
+    font-size: 1.1em;
+    display: inline-block;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 0 5px 0 5px;
+    line-height: 40px; !important;
+    width: 8em;
+    text-align:center;
+}
+
+.wechat-output h2.solution{
+    margin: 40px 0 40px 0;
+}
+.wechat-output h2.question{
+    margin: 0 0 40px 0;
+}
+
+.wechat-output .problem-source {
+    text-align: right;
+}
+
+.wechat-output .problem-source span{
+    background-color: lightgreen;
+    color: darkgreen;
+    display: inline-block;
+    font-size: 0.8em;
+    font-weight: bolder;
+    margin: 0 0 40px 0;
+    padding: 0 20px 0 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.wechat-output p{
+    margin: 0;
+}
+
+.wechat-output .problem-img{
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+.wechat-output .problem-img img{
+    max-width: 90%;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+.wechat-output .step-header {
+    font-weight: bold;
+    color: forestgreen;
+}
+
+.wechat-output .step-score{
+    font-size: 0.8em;
+    color: forestgreen;
+    text-align: right;
+}
+
+.wechat-output .problem-solution{
+    margin-bottom: 0;
+}
+
+.inline-math{
+    display: inline;
+}
+
+.display-math{
+    display: block;
+    text-align: center;
+    overflow-x: scroll;
+}
+
+.wechat-output .panel{
+    background: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-shadow: none;
+}
+
+.wechat-output .panel-body{
+    margin: 0;
+    padding: 0 0 0 0px;
+}
+
+.wechat-output .panel-body p{
+    padding: 0 20px 0 20px ;
+}
+
+
+.mathcrowd-logo{
+    font-size: 0.8em;
+    color: darkgrey;
+    text-align: right;
+    opacity: 70%;
+}
+
+.wechat-output .problem-info {
+    font-size: 0.8em;
+    color: darkgrey;
+    font-weight:bolder;
+    text-align: left;
+}
+
+.problem-info a{
+    display:inline-block;
+    border-radius:0.2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    color: forestgreen;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: lightgreen;
+    box-shadow:inset 0 -0.6em 1em -0.35em rgba(0,0,0,0.17),inset 0 0.6em 2em -0.3em rgba(255,255,255,0.15),inset 0 0 0em 0.05em rgba(255,255,255,0.12);
+    text-align:center;
+    margin:40px 0 40px 0;
+}
+

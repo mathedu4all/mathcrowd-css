@@ -17,6 +17,21 @@ The styles included in this collection are designed for the problems in MathCrow
 
 read [wiki](https://github.com/mathedu4all/mathcrowd-css/wiki) 
 
+## Deployment
+
+1. Install PHP and composer
+
+2. Clone the project
+`git git@github.com:mathedu4all/mathcrowd-css.git`
+
+3. Install dependencies
+`cd mathcrowd-css/basic`
+`composer update -vvv`
+
+4. Run yii2，and visit http://localhost:8080.
+`./yii serve`
+
+
 ## License
 
 This project is license under Apache License, Version 2.0.
