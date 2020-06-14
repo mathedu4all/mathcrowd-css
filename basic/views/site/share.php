@@ -34,6 +34,8 @@ $this->params['breadcrumbs'][] = $this->title;
                         <button class="btn btn-default style-button" data-id="2">样式2</button>
                         <button class="btn btn-default style-button" data-id="3">样式3</button>
                         <button class="btn btn-default style-button" data-id="4">样式4</button>
+                        <button class="btn btn-default style-button" data-id="5">样式5</button>
+                        <button class="btn btn-default style-button" data-id="6">样式6</button>
                     </p>
                 </div>
                 <button id="btnCopyWechat" class="btn btn-primary">复制到微信公众号</button>
