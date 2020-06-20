@@ -1,0 +1,133 @@
+.wechat-output {
+    word-break: break-all;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: left;
+    word-spacing: 2px;
+
+    border: 1px solid #eee;
+}
+
+.wechat-output p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #3e3e3e;
+}
+
+/* 二级标题 */
+.wechat-output h2 {
+    color: #FFF;
+    font-size: 1.1em;
+    height: 40px;
+    line-height: 40px;
+}
+
+/* 二级标题内容 */
+.wechat-output h2 span:nth-of-type(1) {
+    font-size: 22px;
+    display: inline-block;
+    padding: 0 12px;
+    background: #21749a;
+    position: relative;
+    left: -8px;
+}
+
+/* 二级标题修饰 请参考有实例的主题 */
+.wechat-output h2 span:nth-of-type(2) {
+    display: inline-block;
+    content: '';
+    position: relative;
+    height: 0;
+    width: 0;
+    border-top: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-left: 15px solid #21749a;
+    right: 8px;
+    top: 12px;
+}
+
+.wechat-output .problem-img{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 3px;
+}
+
+.wechat-output .problem-img img{
+    max-width: 90%;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+
+.wechat-output .step-header {
+    font-weight: bold;
+    color: #0084d6;
+}
+
+.wechat-output .solution-step{
+    margin-top: 10px;
+    border-top: 3px double #0084d6;
+}
+
+.wechat-output .step-score{
+    font-size: 0.8em;
+    color: #8c8c8c;
+    text-align: right;
+}
+
+.wechat-output .problem-info {
+    font-size: 0.8em;
+    text-align: right;
+}
+
+.wechat-output .problem-info a {
+    padding: 2px;
+    color: #ffa545;
+}
+
+
+.wechat-output .problem-source p{
+    position: relative;
+    top: -15px;
+    text-align: left;
+    font-size: 0.8em;
+    color: darkgray;
+    font-weight: bolder;
+}
+
+.wechat-output .problem-solution{
+    margin-bottom: 20px;
+}
+
+.inline-math{
+    display: inline;
+}
+
+.display-math{
+    display: block;
+    text-align: center;
+    overflow-x: scroll;
+}
+
+.mathcrowd-logo{
+    font-size: 0.8em;
+    color: darkgrey;
+    text-align: right;
+    opacity: 70%;
+}
+
+.wechat-output .panel-body{
+    position: relative;
+    margin: auto;
+    padding: 20px 20px 5px 20px;
+}
+
+.wechat-output .panel{
+    margin-bottom: unset;
+    background-color: unset;
+    border: unset;
+    border-radius: unset;
+    box-shadow: unset;
+    border-bottom: 1px solid #eee;
+}
