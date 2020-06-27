@@ -15,20 +15,18 @@
 
 ## 样式一览
 
-* 样式1
-	![1](http://docs.mathcrowd.cn/_images/style-01.png)
-* 样式2
-	![2](http://docs.mathcrowd.cn/_images/style-02.png)
-* 样式3
-	![3](http://docs.mathcrowd.cn/_images/style-03.png)
-* 样式4
-	![4](http://docs.mathcrowd.cn/_images/style-04.png)
-* 样式5
-	![5](http://docs.mathcrowd.cn/_images/style-05.png)
-* 样式6
-	![6](http://docs.mathcrowd.cn/_images/style-06.png)
+| 样式１      | 　样式２　 |
+| ----------- | ----------- |
+| <img src="http://docs.mathcrowd.cn/_images/style-01.png" width="400">　|  <img src="http://docs.mathcrowd.cn/_images/style-02.png" width="400">　|
+
+| 样式3      | 　样式4　 |
+| ----------- | ----------- |
+| <img src="http://docs.mathcrowd.cn/_images/style-03.png" width="400">　|  <img src="http://docs.mathcrowd.cn/_images/style-04.png" width="400">　|
 
 
+| 样式5      | 　样式6　 |
+| ----------- | ----------- |
+| <img src="http://docs.mathcrowd.cn/_images/style-05.png" width="400">　|  <img src="http://docs.mathcrowd.cn/_images/style-06.png" width="400">　|
 
 ## 开始之前
 
